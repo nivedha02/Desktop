@@ -5,7 +5,7 @@
 Move to the specific folder and open **cmd** to create anew project.
 
 
-```django-admin startproject project_name```
+#### ```django-admin startproject project_name```
 
 
 Once the project is created django will create a list of files on it's own for us.
@@ -18,7 +18,7 @@ i.e por_1
 #### **STEP 2 :**
 Check weather the server is running.
 
-```python manage.py runserver```
+#### ```python manage.py runserver```
 
 
 
@@ -27,7 +27,7 @@ Check weather the server is running.
 Time to create projects within a big project.
 
 
-```python manage.py startapp app_name```
+#### ```python manage.py startapp app_name```
 
 
 
